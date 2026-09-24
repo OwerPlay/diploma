@@ -1,0 +1,6 @@
+~$*
+*.tmp
+*.asd
+*.wbk
+/output/
+/tmp/
