@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-25",
+  "environment": "go1.26.1 windows/amd64",
+  "dashboard_revision": "9e39ed795bcb110bb8de252ac44f677c3d8e4de7",
+  "printer_revision": "57b079a4c0c8847965fcc475a98675cf87a3e145",
+  "top_level_tests": 8,
+  "leaf_cases": 17,
+  "status": "passed",
+  "physical_printing_tested": false,
+  "production_database_accessed": false,
+  "groups": [
+    {"name":"CSVDetection","cases":4,"status":"passed"},
+    {"name":"CSVPreview","cases":1,"status":"passed"},
+    {"name":"PrintValidation","cases":5,"status":"passed"},
+    {"name":"DateNormalization","cases":3,"status":"passed"},
+    {"name":"TemplateVersions","cases":1,"status":"passed"},
+    {"name":"JobContents","cases":1,"status":"passed"},
+    {"name":"TemplateHTTPError","cases":1,"status":"passed"},
+    {"name":"APIAddress","cases":1,"status":"passed"}
+  ]
+}
